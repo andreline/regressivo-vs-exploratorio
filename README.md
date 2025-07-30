@@ -110,5 +110,6 @@ Artigo explicando como estruturar sua estratégia de testes baseada em pirâmide
 Me chamo **Andreline Lira**, sou QA com foco em qualidade de ponta a ponta: estratégia, processos, prevenção e melhoria contínua.  
 Faço testes com propósito, crio cultura de qualidade e não descanso enquanto tiver bug no caminho.  
 
-📍 Recife – Brasil  
-🔗 [LinkedIn](https://www.linkedin.com/in/andrelinelira/)  
+Feito com 💜 por Andreline Lira
+📍 Recife – Brasil
+🔗 linkedin.com/in/andrelinelira
